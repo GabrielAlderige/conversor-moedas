@@ -18,7 +18,7 @@ Um conversor de moedas simples e direto, desenvolvido com HTML, CSS e JavaScript
 
 ## 📷 Prévia
 
-![preview](./preview.png) <!-- Substitua pelo nome real da imagem se houver -->
+![preview](./previa.png) <!-- Substitua pelo nome real da imagem se houver -->
 
 ## 🛠️ Como usar
 
